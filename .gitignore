@@ -5,3 +5,5 @@ node_modules/
 *.pem
 *.key
 secrets/
+.vscode/
+101_context/
